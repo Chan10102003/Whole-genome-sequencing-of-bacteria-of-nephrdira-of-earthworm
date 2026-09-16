@@ -1,0 +1,2 @@
+# Whole-genome-sequencing-of-bacteria-of-nephrdira-of-earthworm
+Earthworm nephridia contain bacteria involved in detoxification, nitrogen cycling, and soil health. This study isolates these bacteria, extracts their DNA, and uses Illumina whole-genome sequencing, assembly, annotation, and comparative genomics to identify useful genes and assess their potential in bioremediation and sustainable agriculture today.
